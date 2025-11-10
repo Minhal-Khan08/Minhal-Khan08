@@ -10,7 +10,6 @@
 </div>
 
 ---
-
 <!-- About Me Section -->
 ## <img src="https://media.tenor.com/-GFFdQXUv70AAAAj/spirited-away-rock.gif" width="60"/> About Me
 
@@ -40,6 +39,13 @@ Hey there! I'm a developer with a passion for creating beautiful, functional cod
 
 ---
 
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhal-Khan08&theme=vue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 <!-- Tech Stack Section -->
 ## <img src="https://media.tenor.com/14fG1fVbu2QAAAAj/break.gif" width="70"/> Tech Stack
 
