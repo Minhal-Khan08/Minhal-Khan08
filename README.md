@@ -3,7 +3,7 @@
 
 <img src="https://media.tenor.com/ey19edbYNpUAAAAj/totoro.gif" width="180" align="right"/>
 
-# <img src="https://media.tenor.com/UlJRgoKvQk4AAAAj/cactus-bunny.gif" width="40"/> Minhal Khan! <img src="https://media.tenor.com/TrrbI6d6Vo0AAAAj/waal-boyss-otw.gif" width="80"/>
+# <img src="https://media.tenor.com/UlJRgoKvQk4AAAAj/cactus-bunny.gif" width="40"/> Hiya, I'm Minhal Khan! <img src="https://media.tenor.com/TrrbI6d6Vo0AAAAj/waal-boyss-otw.gif" width="80"/>
 
 **`A passionate developer who loves creating magical digital experiences!`**
 
